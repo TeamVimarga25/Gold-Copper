@@ -15,6 +15,8 @@
    Deposit.shp- Deposits shapefile from Bhukosh
 
    non_deposits_bhukosh.csv - Non-deposits data derived from Self Organizing Maps
+
+   List of images - CNN_prediction_cuau.jpg, cuau_ensemble_learning.jpg, cuau_gcnn.jpg, cuau_rf.jpg, cuau_xgb.jpg, SOM_cuau.jpg, roc_auc_cnn.jpg, roc_auc_ensemble.jpg, roc_auc_gcnn.jpg, roc_auc_rf.jpg, roc_auc_xgb.jpg
    
    ML solutions- Shapefiles of all the ML algorithm results
    
