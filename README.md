@@ -13,8 +13,10 @@
    mineralization_gcs_ngdr.shp - Mineralization shapefile from NGDR
    
    Deposit.shp- Deposits shapefile from Bhukosh
+
+   non_deposits_bhukosh.csv - Non-deposits data derived from Self Organizing Maps
    
-   ML solutions- Shapefiles of all the results from the ML algorithms
+   ML solutions- Shapefiles of all the ML algorithm results
    
                  cuau_pred_1.shp- CNN results of the deposit class 1
                  
