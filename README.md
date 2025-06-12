@@ -1,5 +1,4 @@
 # Gold-Copper
-# GOLD/COPPER-
    
    CODE FILE- Hackathon-2_cuau.ipynb
 
