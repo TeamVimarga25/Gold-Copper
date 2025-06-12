@@ -4,15 +4,15 @@
 
    GEOTIFF- final_stacked_cuau.tif - Provided separately as a google drive link
    
-   train_dir_cuau - Training data - Not provided
+   train_dir_cuau - Training data - Due to  size limitations, these directories were not provided
    
-   test_dir_cuau - Test data - Not provided
+   test_dir_cuau - Test data - Due to  size limitations, these directories were not provided
    
-   deposit_cu_au.shp - deposit_cu_au.shp - Gold/Copper deposits shapefile
+   deposit_cu_au.shp - deposit_cu_au.shp - The Gold/Copper deposits shapefile derived from the deposits file derived from Bhukosh
    
-   mineralization_gcs_ngdr.shp - Contains mineralization shapefile
+   mineralization_gcs_ngdr.shp - Mineralization shapefile from NGDR
    
-   Deposit.shp- Contains deposits shapefile
+   Deposit.shp- Deposits shapefile from Bhukosh
    
    ML solutions- Shapefiles of all the results from the ML algorithms
    
