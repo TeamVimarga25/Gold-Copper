@@ -2,7 +2,7 @@
    
    CODE FILE- Hackathon-2_cuau.ipynb
 
-   GEOTIFF- final_stacked_cuau.tif - Provided separately as a google drive link
+   GEOTIFF- final_stacked_cuau.tif - Provided separately as a google drive link- https://drive.google.com/file/d/1dyUjOmmnKBvuhQNfkxvNfL4HmnIVTY9C/view?usp=sharing
    
    train_dir_cuau - Training data - Due to  size limitations, these directories were not provided
    
